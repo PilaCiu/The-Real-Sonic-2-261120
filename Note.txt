@@ -1,0 +1,6 @@
+Original Sonic 2 Clone Driver by Tweaker and Puto.
+Sound effect EC fixed by Valley Bell.
+
+Note:
+If your assembler complains about the @loc? labels, you need to change them to L_loc? or something else.
+That is because your assembler uses a different way to handle local labels.
